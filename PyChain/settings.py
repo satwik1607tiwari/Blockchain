@@ -25,7 +25,7 @@ SECRET_KEY = '*umda!18te!q@ao^w!uk7#7o((56rs)o5y32rx(#2ry!3)ar+z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = '*'
+ALLOWED_HOSTS = ['blockchain-wallet.azurewebsites.net', 'localhost', '127.0.0.1']
 
 
 # Application definition
